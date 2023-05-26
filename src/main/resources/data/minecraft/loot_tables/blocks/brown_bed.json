@@ -16,7 +16,8 @@
               "block": "minecraft:brown_bed",
               "condition": "minecraft:block_state_property",
               "properties": {
-                "part": "head"
+                "part": "head",
+                "player_placed": "true"
               }
             }
           ],
